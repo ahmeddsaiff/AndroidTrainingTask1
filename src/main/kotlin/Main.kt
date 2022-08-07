@@ -1,6 +1,6 @@
 import java.util.Scanner
 
-fun main(args: Array<String>) {
+fun main() {
     //this is the second version "Nothing Changed"
     val sc=Scanner(System.`in`)
     println("Adding two numbers")
